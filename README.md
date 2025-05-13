@@ -9,9 +9,7 @@ A MySQL database designed for managing a library, including books, authors, memb
 Replace `username` with your MySQL username and `database_name` with your database name.
 - Alternatively, use a tool like phpMyAdmin to import the `.sql` file.
 
-## ERD
-[Add a screenshot or link to your ERD here after creating it using a tool like MySQL Workbench or dbdiagram.io.]
-# week8_assignment_database
+
 
 ## ERD
 ![Library Management ERD](ERD.png)
